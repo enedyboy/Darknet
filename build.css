@@ -3,7 +3,36 @@
  * Loosely based on Monokai textmate theme by http://www.monokai.nl/
  * @author ocodia
  */
-
+#title , h2
+{
+    color: firebrick;
+}
+span#blue
+{
+    color: blue;
+}
+img#gambar
+{
+    width: 80%;
+    height: 100%;  
+}
+p#title
+{
+    font-size: 25px;
+}
+span#brown
+{
+    color: saddlebrown;
+}
+li#title
+{
+    font-size: 30px;
+}
+h2#title
+{
+    font-family: monospace;
+    
+}
 code[class*="language-"],
 pre[class*="language-"] {
 	color: #3385ff;
@@ -120,7 +149,7 @@ pre[class*="language-"] {
 }
 
 h2,h3.bullet,li,ul{
-    font-family: fantasy;
+    font-family: arial;
 }
 h2{
     color: royalblue;
@@ -129,5 +158,5 @@ h3.bullet,li,ul{
     color:darkolivegreen;
 }
 body{
-    background-color: #ff3333;
+    background-color: firebrick;
 }
