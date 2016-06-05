@@ -1,0 +1,49 @@
+==============Presentasi Mengenai Deep Web=================
+Nama Kelompok : Darknet
+Judul Topik   : Deepweb
+Alamat Github : https://github.com/enedyboy/Darknet
+Trello        : https://trello.com/b/AE7lp7T2/tkppl
+Anggota 1     ; Nama = Ferik Enedy Wijaya - 14.111.1251
+Anggota 2     ; Nama = Rico - 14.111.0264
+Anggota 3     ; Nama = Meikelwis Wijaya - 14.111.2460
+Anggota 4     ; Nama = Johan - 14.111.0469
+Anggota 5     ; Nama = Rudy Wijaya - 14.111.2079 
+=======================Sprint==============================
+Sprint 1 minggu , Scrummaster : Rico - 14.111.0264
+diupdate pada tanggal 5 Juni 2016 (karena baru kumpul bareng)
+
+
+----- Daily Scrum ------
+1/06/2016, rabu:
+1. Ferik : "Instal npm utk gulp serve gagal mulu"
+2. Rico : "Cari topik untuk presentasi"
+3. Meikelwis : "Edit Jadenya bersalahan ini"
+4. Rudy : "Instal Node.Js nya gak jalan di .yo"
+5. Johan : "Cara ngepush bagaimana"
+
+2/06/2016, kamis:
+1. Ferik : "Pembahasan topik ditambah gambar bisa g?"
+2. Rico : "mau cepat kq jadi bersalahan ini code nya"
+3. Meikelwis : "....."
+4. Rudy : "Teamviewer kan untuk instalisasi Gulp nya"
+5. Johan : "gak bisa ngepush ni ceritanya"
+
+3/06/2016, jumat :
+1. Ferik : "Kepepet jangan lupa buat persyaratan yg dibutuhkan"
+2. Rico : "Buat Trello , buat board"
+3. Meikelwis : "Desain biasa lebih simple"
+4. Rudy : "Kasih bahan untuk Bahay Deepweb"
+5. Johan : "Ok gda masalah"
+
+4/06/2016, sabtu :
+1. Ferik : "Panggilan alam dari orangtua"
+2. Rico : "Teamviewer gagal"
+3. Meikelwis : ""
+4. Rudy : ""
+5. Johan : "..."
+
+5/06/2016, minggu :
+Kebut dan selesai
+
+
+
